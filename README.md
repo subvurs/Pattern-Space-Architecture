@@ -57,6 +57,8 @@ Independent Quantum Research
 
 © 2025 Subvurs Research. All rights reserved.
 
+FOR PEER REVIEW AND REPLICAITON TESTING, PLEASE EMAIL - research@subvurs.com. 
+
 ### Related Work
 
 - [Consensual Information Cosmology](https://github.com/subvurs/Consensual-Information-Cosmology)
