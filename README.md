@@ -16,19 +16,19 @@ This repository contains research papers exploring the architecture and geograph
 
 ### Papers
 
-1. **Functional_Analysis_of_Quantum_Pattern_Space.md**
+1. **Functional_Analysis_of_Quantum_Pattern_Space**
    - 31 patterns tested (12.1% of pattern space)
    - Three functional domains identified
    - Pattern 48 discovery as hardware-resonant optimization
    - 49-pattern periodicity (7×7 structure)
 
-2. **Quantum_Pattern_Space_Geography_Framework.md**
+2. **Quantum_Pattern_Space_Geography_Framework**
    - Complete geographical mapping framework
    - Bridge network validation (2.8% coupling constant)
    - Multi-method validation across 3 hardware platforms
    - 18,500+ measurements analyzed
 
-3. **Pattern_Space_Physical_Space_Convergence_Validation.md**
+3. **Pattern_Space_Physical_Space_Convergence_Validation**
    - Pattern 51 convergence at 51 atoms
    - Structured chaos phenomenon (62.6% concentration at 100% entropy)
    - QuEra Aquila 256-atom validation
@@ -57,7 +57,7 @@ Independent Quantum Research
 
 © 2025 Subvurs Research. All rights reserved.
 
-FOR PEER REVIEW AND REPLICAITON TESTING, PLEASE EMAIL - research@subvurs.com. 
+**FOR PEER REVIEW AND REPLICABILITY REQUESTS, PLEASE EMAIL - research@subvurs.com.**
 
 ### Related Work
 
